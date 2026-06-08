@@ -9,7 +9,7 @@ Fechas: 15, 18, 22 y 25 junio 2026 (10 am - 2:00 pm UTC-6, Ciudad de Mexico)
 **Nivel principiante**
 
 <p align="center">
-<img src='CODE&DATA_flyer.png' width='600'>
+<img src='assets/img/CODE&DATA_flyer.png' width='600'>
 </p>
 
 ## Instructoras
