@@ -376,7 +376,7 @@ change the value of `carpentry` to `incubator`.
 <hr/>
 
 <div class="alert alert-danger">
-El material de esta clase se encuentra en X. 
+El material de esta clase se encuentra en [CodeData_Bootcamp_Git_Bash_R2026_ENESJ](https://iscb-rsg-mexico.github.io/CodeData_Bootcamp_Git_Bash_R2026_ENESJ/). 
 </div>
 
 {% comment %}
